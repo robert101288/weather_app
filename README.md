@@ -34,9 +34,13 @@ The solutions/ packages used in the app are as it follows:
 #### Architecture
 ![enter image description here](https://github.com/Kynergy/ProiectFinalSwiss/blob/master/Arch_diagram.png?raw=true)
 
+## Process Flow
 
-#### Support Contact
+![enter image description here](https://www.survivingwithandroid.com/wp-content/uploads/2013/05/uml-model-1.png)
 
+
+
+## Support
 - Craescu Robert Dan - contact@crdvideos.com
 
 
